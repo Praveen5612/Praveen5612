@@ -32,6 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen5612&show_icons=true&locale=en" alt="praveen5612" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen5612&" alt="praveen5612" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen5612&" alt="praveen5612" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen5612" alt="praveen5612" /></a> </p>
